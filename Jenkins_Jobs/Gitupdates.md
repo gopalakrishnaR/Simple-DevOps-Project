@@ -2,15 +2,17 @@
 
 
 #Get the Git status use the following command
-git status
+# Command git status
 
 # or the location of the updated code
 
-git add . 
+# Command git add . 
 
 
 #Reason for the commit#
-git comit -m "reason for the change and commit"
+
+#command git comit -m "reason for the change and commit"
 
 #Push the commit to the master branch
-git push origin master #push it to the master branch
+
+#command git push origin master #push it to the master branch
